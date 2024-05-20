@@ -6,14 +6,21 @@ This project demonstrates the use of Support Vector Machine (SVM) to classify ha
 
 ## Table of Contents
 
-- [Introduction]
-- [Dataset]
-- [Features]
-- [Methodology]
-- [Results]
-- [Usage]
-- [Contributing]
-- [License]
+- [Introduction](#introduction)
+
+- [Dataset](#dataset)
+
+- [Features](#features)
+
+- [Methodology](#methodology)
+
+- [Results](#results)
+
+- [Usage](#usage)
+
+- [Contributing](#contributing)
+
+- [License](#license)
 
 ## Introduction
 
@@ -70,22 +77,13 @@ These results indicate that the SVM classifier provides a high level of accuracy
 
 To use this project, follow these steps:
 
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/Handwritten-Digit-Classification-Using-SVM.git
-    ```
-2. **Navigate to the project directory**:
-    ```bash
-    cd Handwritten-Digit-Classification-Using-SVM
-    ```
-3. **Install the required dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. **Run the Jupyter Notebook** to see the analysis and model implementation:
-    ```bash
-    jupyter notebook
-    ```
+1\. **Access the Kaggle notebook**:
+
+   - Open the Kaggle notebook by clicking on the following link: [[Link to Kaggle notebook](https://www.kaggle.com/code/sahilwarudkar/handwritten-digit-classification/edit)]
+
+2\. **Run the notebook**:
+
+   - Once the notebook is open, you can run each cell sequentially to see the analysis and model implementation.
 
 ## Contributing
 
